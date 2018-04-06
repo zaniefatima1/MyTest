@@ -1,0 +1,4 @@
+public String myName;
+public String yourName;
+public int myAge;
+public int yourAge;
